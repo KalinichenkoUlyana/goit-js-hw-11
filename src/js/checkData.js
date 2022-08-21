@@ -1,5 +1,3 @@
-// import Notiflix from "notiflix";
-// const moreBtn = document.querySelector('.load-more.is-hidden');
 
 function checkData(data) {
   

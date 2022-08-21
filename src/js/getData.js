@@ -1,11 +1,3 @@
-// import clearGalleryList from './clearGalleryList';
-// import checkData from './checkData';
-// import Notiflix from "notiflix";
-// import addRenderList from './addRenderList';
-// import PhotoApiService from "./photo-API";
-// const photoApiService = new PhotoApiService();
-
-
 
 function getData(event) {
 

@@ -1,8 +1,4 @@
-// import Notiflix from "notiflix";
 
-// import PhotoApiService from "./photo-API";
-// const photoApiService = new PhotoApiService();
-// const moreBtn = document.querySelector('.load-more.is-hidden');
 
 function checkHitsLength(data) {
 
